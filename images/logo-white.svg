@@ -1,0 +1,11 @@
+<svg width="250" height="60" viewBox="0 0 250 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Scale Icon in Gold -->
+  <path d="M30 15 L30 45 M20 25 Q30 20 40 25 M15 35 Q20 45 25 35 M35 35 Q40 45 45 35" stroke="#C9A24D" fill="none" stroke-width="2"/>
+  <circle cx="30" cy="15" r="2" fill="#FFFFFF"/>
+  
+  <!-- Text in White and Gold -->
+  <g transform="translate(65, 35)">
+    <text font-family="Playfair Display, serif" font-size="24" font-weight="bold" fill="#FFFFFF">Barbosa & Costa</text>
+    <text y="15" font-family="Source Sans 3, sans-serif" font-size="12" font-weight="400" fill="#C9A24D" letter-spacing="3">ADVOCACIA</text>
+  </g>
+</svg>

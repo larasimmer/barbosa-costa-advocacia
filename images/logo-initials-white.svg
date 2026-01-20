@@ -1,0 +1,5 @@
+<svg width="140" height="60" viewBox="0 0 140 60" xmlns="http://www.w3.org/2000/svg">
+  <path d="M25 15 L25 45 M15 25 Q25 20 35 25 M10 35 Q15 45 20 35 M30 35 Q35 45 40 35" stroke="#C9A24D" fill="none" stroke-width="2"/>
+  <circle cx="25" cy="15" r="2" fill="#FFFFFF"/>
+  <text x="52" y="42" font-family="Playfair Display, serif" font-size="30" font-weight="bold" fill="#FFFFFF">B&C</text>
+</svg>
